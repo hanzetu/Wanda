@@ -2,6 +2,8 @@
 
 #include "ofMain.h"
 #include "ofxLeapMotion2.h"
+#include "ofxFX.h"
+#include "ofxFluid.h"
 
 class ofApp : public ofBaseApp{
     
@@ -9,7 +11,7 @@ public:
     void setup();
     void update();
     void draw();
-	
+    
     void keyPressed  (int key);
     void keyReleased(int key);
     void mouseMoved(int x, int y );
@@ -21,9 +23,12 @@ public:
     void gotMessage(ofMessage msg);
     void exit();
     
-	ofxLeapMotion leap;
-	vector <ofxLeapMotionSimpleHand> simpleHands;
+    ofxLeapMotion leap;
+    vector <ofxLeapMotionSimpleHand> simpleHands;
     
-	vector <int> fingersFound;
-	ofEasyCam cam;
+    ofxFluid fluid;
+    ofVec2f oldM;
+    
+    vector <int> fingersFound;
+    ofEasyCam cam;
 };
