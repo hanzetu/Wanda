@@ -3,8 +3,8 @@
 
 //========================================================================
 int main( ){
-//	ofSetupOpenGL(1024,768,OF_WINDOW);
-    ofSetupOpenGL(1366, 768, OF_FULLSCREEN); // <-------- setup the GL context
+//	ofSetupOpenGL(1920,1080,OF_WINDOW);
+    ofSetupOpenGL(1920, 1080, OF_FULLSCREEN); // <-------- setup the GL context
 //    ofGLWindowSettings settings;
 //    settings.setGLVersion(4,1);
 //    settings.width = 1024;

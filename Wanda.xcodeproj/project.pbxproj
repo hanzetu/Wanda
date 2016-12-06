@@ -13,6 +13,84 @@
 		E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */; };
 		FF47AEFC1DEBE10B005A3A2F /* ofxFXObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47AEEF1DEBE10B005A3A2F /* ofxFXObject.cpp */; };
 		FF47AF011DEBE143005A3A2F /* ofxFluid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47AEFF1DEBE143005A3A2F /* ofxFluid.cpp */; };
+		FF47B2071DF51158005A3A2F /* ADSR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1B81DF51158005A3A2F /* ADSR.cpp */; };
+		FF47B2081DF51158005A3A2F /* Asymp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1B91DF51158005A3A2F /* Asymp.cpp */; };
+		FF47B2091DF51158005A3A2F /* BandedWG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1BA1DF51158005A3A2F /* BandedWG.cpp */; };
+		FF47B20A1DF51158005A3A2F /* BeeThree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1BB1DF51158005A3A2F /* BeeThree.cpp */; };
+		FF47B20B1DF51158005A3A2F /* BiQuad.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1BC1DF51158005A3A2F /* BiQuad.cpp */; };
+		FF47B20C1DF51158005A3A2F /* Blit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1BD1DF51158005A3A2F /* Blit.cpp */; };
+		FF47B20D1DF51158005A3A2F /* BlitSaw.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1BE1DF51158005A3A2F /* BlitSaw.cpp */; };
+		FF47B20E1DF51158005A3A2F /* BlitSquare.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1BF1DF51158005A3A2F /* BlitSquare.cpp */; };
+		FF47B20F1DF51158005A3A2F /* BlowBotl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C01DF51158005A3A2F /* BlowBotl.cpp */; };
+		FF47B2101DF51158005A3A2F /* BlowHole.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C11DF51158005A3A2F /* BlowHole.cpp */; };
+		FF47B2111DF51158005A3A2F /* Bowed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C21DF51158005A3A2F /* Bowed.cpp */; };
+		FF47B2121DF51158005A3A2F /* Brass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C31DF51158005A3A2F /* Brass.cpp */; };
+		FF47B2131DF51158005A3A2F /* Chorus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C41DF51158005A3A2F /* Chorus.cpp */; };
+		FF47B2141DF51158005A3A2F /* Clarinet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C51DF51158005A3A2F /* Clarinet.cpp */; };
+		FF47B2151DF51158005A3A2F /* Delay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C61DF51158005A3A2F /* Delay.cpp */; };
+		FF47B2161DF51158005A3A2F /* DelayA.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C71DF51158005A3A2F /* DelayA.cpp */; };
+		FF47B2171DF51158005A3A2F /* DelayL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C81DF51158005A3A2F /* DelayL.cpp */; };
+		FF47B2181DF51158005A3A2F /* Drummer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1C91DF51158005A3A2F /* Drummer.cpp */; };
+		FF47B2191DF51158005A3A2F /* Echo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1CA1DF51158005A3A2F /* Echo.cpp */; };
+		FF47B21A1DF51158005A3A2F /* Envelope.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1CB1DF51158005A3A2F /* Envelope.cpp */; };
+		FF47B21B1DF51158005A3A2F /* FileLoop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1CC1DF51158005A3A2F /* FileLoop.cpp */; };
+		FF47B21C1DF51158005A3A2F /* FileRead.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1CD1DF51158005A3A2F /* FileRead.cpp */; };
+		FF47B21D1DF51158005A3A2F /* FileWrite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1CE1DF51158005A3A2F /* FileWrite.cpp */; };
+		FF47B21E1DF51158005A3A2F /* FileWvIn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1CF1DF51158005A3A2F /* FileWvIn.cpp */; };
+		FF47B21F1DF51158005A3A2F /* FileWvOut.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D01DF51158005A3A2F /* FileWvOut.cpp */; };
+		FF47B2201DF51158005A3A2F /* Fir.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D11DF51158005A3A2F /* Fir.cpp */; };
+		FF47B2211DF51158005A3A2F /* Flute.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D21DF51158005A3A2F /* Flute.cpp */; };
+		FF47B2221DF51158005A3A2F /* FM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D31DF51158005A3A2F /* FM.cpp */; };
+		FF47B2231DF51158005A3A2F /* FMVoices.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D41DF51158005A3A2F /* FMVoices.cpp */; };
+		FF47B2241DF51158005A3A2F /* FormSwep.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D51DF51158005A3A2F /* FormSwep.cpp */; };
+		FF47B2251DF51158005A3A2F /* FreeVerb.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D61DF51158005A3A2F /* FreeVerb.cpp */; };
+		FF47B2261DF51158005A3A2F /* Granulate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D71DF51158005A3A2F /* Granulate.cpp */; };
+		FF47B2271DF51158005A3A2F /* Guitar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D81DF51158005A3A2F /* Guitar.cpp */; };
+		FF47B2281DF51158005A3A2F /* HevyMetl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1D91DF51158005A3A2F /* HevyMetl.cpp */; };
+		FF47B2291DF51158005A3A2F /* Iir.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1DA1DF51158005A3A2F /* Iir.cpp */; };
+		FF47B22A1DF51158005A3A2F /* JCRev.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1DB1DF51158005A3A2F /* JCRev.cpp */; };
+		FF47B22B1DF51158005A3A2F /* LentPitShift.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1DC1DF51158005A3A2F /* LentPitShift.cpp */; };
+		FF47B22C1DF51158005A3A2F /* Mandolin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1DD1DF51158005A3A2F /* Mandolin.cpp */; };
+		FF47B22D1DF51158005A3A2F /* Mesh2D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1DE1DF51158005A3A2F /* Mesh2D.cpp */; };
+		FF47B22E1DF51158005A3A2F /* Messager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1DF1DF51158005A3A2F /* Messager.cpp */; };
+		FF47B22F1DF51158005A3A2F /* MidiFileIn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E01DF51158005A3A2F /* MidiFileIn.cpp */; };
+		FF47B2301DF51158005A3A2F /* Modal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E11DF51158005A3A2F /* Modal.cpp */; };
+		FF47B2311DF51158005A3A2F /* ModalBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E21DF51158005A3A2F /* ModalBar.cpp */; };
+		FF47B2321DF51158005A3A2F /* Modulate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E31DF51158005A3A2F /* Modulate.cpp */; };
+		FF47B2331DF51158005A3A2F /* Moog.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E41DF51158005A3A2F /* Moog.cpp */; };
+		FF47B2341DF51158005A3A2F /* Noise.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E51DF51158005A3A2F /* Noise.cpp */; };
+		FF47B2351DF51158005A3A2F /* NRev.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E61DF51158005A3A2F /* NRev.cpp */; };
+		FF47B2361DF51158005A3A2F /* OnePole.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E71DF51158005A3A2F /* OnePole.cpp */; };
+		FF47B2371DF51158005A3A2F /* OneZero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E81DF51158005A3A2F /* OneZero.cpp */; };
+		FF47B2381DF51158005A3A2F /* PercFlut.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1E91DF51158005A3A2F /* PercFlut.cpp */; };
+		FF47B2391DF51158005A3A2F /* Phonemes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1EA1DF51158005A3A2F /* Phonemes.cpp */; };
+		FF47B23A1DF51158005A3A2F /* PitShift.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1EB1DF51158005A3A2F /* PitShift.cpp */; };
+		FF47B23B1DF51158005A3A2F /* Plucked.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1EC1DF51158005A3A2F /* Plucked.cpp */; };
+		FF47B23C1DF51158005A3A2F /* PoleZero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1ED1DF51158005A3A2F /* PoleZero.cpp */; };
+		FF47B23D1DF51158005A3A2F /* PRCRev.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1EE1DF51158005A3A2F /* PRCRev.cpp */; };
+		FF47B23E1DF51158005A3A2F /* Resonate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1EF1DF51158005A3A2F /* Resonate.cpp */; };
+		FF47B23F1DF51158005A3A2F /* Rhodey.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F01DF51158005A3A2F /* Rhodey.cpp */; };
+		FF47B2401DF51158005A3A2F /* Sampler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F11DF51158005A3A2F /* Sampler.cpp */; };
+		FF47B2411DF51158005A3A2F /* Saxofony.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F21DF51158005A3A2F /* Saxofony.cpp */; };
+		FF47B2421DF51158005A3A2F /* Shakers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F31DF51158005A3A2F /* Shakers.cpp */; };
+		FF47B2431DF51158005A3A2F /* Simple.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F41DF51158005A3A2F /* Simple.cpp */; };
+		FF47B2441DF51158005A3A2F /* SineWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F51DF51158005A3A2F /* SineWave.cpp */; };
+		FF47B2451DF51158005A3A2F /* SingWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F61DF51158005A3A2F /* SingWave.cpp */; };
+		FF47B2461DF51158005A3A2F /* Sitar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F71DF51158005A3A2F /* Sitar.cpp */; };
+		FF47B2471DF51158005A3A2F /* Skini.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F81DF51158005A3A2F /* Skini.cpp */; };
+		FF47B2481DF51158005A3A2F /* Sphere.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1F91DF51158005A3A2F /* Sphere.cpp */; };
+		FF47B2491DF51158005A3A2F /* StifKarp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1FA1DF51158005A3A2F /* StifKarp.cpp */; };
+		FF47B24A1DF51158005A3A2F /* Stk.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1FB1DF51158005A3A2F /* Stk.cpp */; };
+		FF47B24B1DF51158005A3A2F /* TapDelay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1FC1DF51158005A3A2F /* TapDelay.cpp */; };
+		FF47B24C1DF51158005A3A2F /* TubeBell.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1FD1DF51158005A3A2F /* TubeBell.cpp */; };
+		FF47B24D1DF51158005A3A2F /* Twang.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1FE1DF51158005A3A2F /* Twang.cpp */; };
+		FF47B24E1DF51158005A3A2F /* TwoPole.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B1FF1DF51158005A3A2F /* TwoPole.cpp */; };
+		FF47B24F1DF51158005A3A2F /* TwoZero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B2001DF51158005A3A2F /* TwoZero.cpp */; };
+		FF47B2501DF51158005A3A2F /* Voicer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B2011DF51158005A3A2F /* Voicer.cpp */; };
+		FF47B2511DF51158005A3A2F /* VoicForm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B2021DF51158005A3A2F /* VoicForm.cpp */; };
+		FF47B2521DF51158005A3A2F /* Whistle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B2031DF51158005A3A2F /* Whistle.cpp */; };
+		FF47B2531DF51158005A3A2F /* Wurley.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B2041DF51158005A3A2F /* Wurley.cpp */; };
+		FF47B2601DF5660B005A3A2F /* ofxSimpleTimer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FF47B25E1DF5660B005A3A2F /* ofxSimpleTimer.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,6 +173,177 @@
 		FF47AEFB1DEBE10B005A3A2F /* ofxThreshold.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxThreshold.h; sourceTree = "<group>"; };
 		FF47AEFF1DEBE143005A3A2F /* ofxFluid.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxFluid.cpp; sourceTree = "<group>"; };
 		FF47AF001DEBE143005A3A2F /* ofxFluid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxFluid.h; sourceTree = "<group>"; };
+		FF47B15C1DF51158005A3A2F /* ADSR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADSR.h; sourceTree = "<group>"; };
+		FF47B15D1DF51158005A3A2F /* Asymp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Asymp.h; sourceTree = "<group>"; };
+		FF47B15E1DF51158005A3A2F /* BandedWG.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BandedWG.h; sourceTree = "<group>"; };
+		FF47B15F1DF51158005A3A2F /* BeeThree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeeThree.h; sourceTree = "<group>"; };
+		FF47B1601DF51158005A3A2F /* BiQuad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BiQuad.h; sourceTree = "<group>"; };
+		FF47B1611DF51158005A3A2F /* Blit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Blit.h; sourceTree = "<group>"; };
+		FF47B1621DF51158005A3A2F /* BlitSaw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlitSaw.h; sourceTree = "<group>"; };
+		FF47B1631DF51158005A3A2F /* BlitSquare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlitSquare.h; sourceTree = "<group>"; };
+		FF47B1641DF51158005A3A2F /* BlowBotl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlowBotl.h; sourceTree = "<group>"; };
+		FF47B1651DF51158005A3A2F /* BlowHole.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlowHole.h; sourceTree = "<group>"; };
+		FF47B1661DF51158005A3A2F /* Bowed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bowed.h; sourceTree = "<group>"; };
+		FF47B1671DF51158005A3A2F /* BowTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BowTable.h; sourceTree = "<group>"; };
+		FF47B1681DF51158005A3A2F /* Brass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Brass.h; sourceTree = "<group>"; };
+		FF47B1691DF51158005A3A2F /* Chorus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Chorus.h; sourceTree = "<group>"; };
+		FF47B16A1DF51158005A3A2F /* Clarinet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Clarinet.h; sourceTree = "<group>"; };
+		FF47B16B1DF51158005A3A2F /* Cubic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cubic.h; sourceTree = "<group>"; };
+		FF47B16C1DF51158005A3A2F /* Delay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Delay.h; sourceTree = "<group>"; };
+		FF47B16D1DF51158005A3A2F /* DelayA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DelayA.h; sourceTree = "<group>"; };
+		FF47B16E1DF51158005A3A2F /* DelayL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DelayL.h; sourceTree = "<group>"; };
+		FF47B16F1DF51158005A3A2F /* Drummer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Drummer.h; sourceTree = "<group>"; };
+		FF47B1701DF51158005A3A2F /* Echo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Echo.h; sourceTree = "<group>"; };
+		FF47B1711DF51158005A3A2F /* Effect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Effect.h; sourceTree = "<group>"; };
+		FF47B1721DF51158005A3A2F /* Envelope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Envelope.h; sourceTree = "<group>"; };
+		FF47B1731DF51158005A3A2F /* FileLoop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileLoop.h; sourceTree = "<group>"; };
+		FF47B1741DF51158005A3A2F /* FileRead.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileRead.h; sourceTree = "<group>"; };
+		FF47B1751DF51158005A3A2F /* FileWrite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileWrite.h; sourceTree = "<group>"; };
+		FF47B1761DF51158005A3A2F /* FileWvIn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileWvIn.h; sourceTree = "<group>"; };
+		FF47B1771DF51158005A3A2F /* FileWvOut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileWvOut.h; sourceTree = "<group>"; };
+		FF47B1781DF51158005A3A2F /* Filter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Filter.h; sourceTree = "<group>"; };
+		FF47B1791DF51158005A3A2F /* Fir.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fir.h; sourceTree = "<group>"; };
+		FF47B17A1DF51158005A3A2F /* Flute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flute.h; sourceTree = "<group>"; };
+		FF47B17B1DF51158005A3A2F /* FM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FM.h; sourceTree = "<group>"; };
+		FF47B17C1DF51158005A3A2F /* FMVoices.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMVoices.h; sourceTree = "<group>"; };
+		FF47B17D1DF51158005A3A2F /* FormSwep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormSwep.h; sourceTree = "<group>"; };
+		FF47B17E1DF51158005A3A2F /* FreeVerb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FreeVerb.h; sourceTree = "<group>"; };
+		FF47B17F1DF51158005A3A2F /* Function.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Function.h; sourceTree = "<group>"; };
+		FF47B1801DF51158005A3A2F /* Generator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Generator.h; sourceTree = "<group>"; };
+		FF47B1811DF51158005A3A2F /* Granulate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Granulate.h; sourceTree = "<group>"; };
+		FF47B1821DF51158005A3A2F /* Guitar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Guitar.h; sourceTree = "<group>"; };
+		FF47B1831DF51158005A3A2F /* HevyMetl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HevyMetl.h; sourceTree = "<group>"; };
+		FF47B1841DF51158005A3A2F /* Iir.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iir.h; sourceTree = "<group>"; };
+		FF47B1851DF51158005A3A2F /* Instrmnt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Instrmnt.h; sourceTree = "<group>"; };
+		FF47B1861DF51158005A3A2F /* JCRev.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCRev.h; sourceTree = "<group>"; };
+		FF47B1871DF51158005A3A2F /* JetTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JetTable.h; sourceTree = "<group>"; };
+		FF47B1881DF51158005A3A2F /* LentPitShift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LentPitShift.h; sourceTree = "<group>"; };
+		FF47B1891DF51158005A3A2F /* Mandolin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mandolin.h; sourceTree = "<group>"; };
+		FF47B18A1DF51158005A3A2F /* Mesh2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mesh2D.h; sourceTree = "<group>"; };
+		FF47B18B1DF51158005A3A2F /* Messager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Messager.h; sourceTree = "<group>"; };
+		FF47B18C1DF51158005A3A2F /* MidiFileIn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MidiFileIn.h; sourceTree = "<group>"; };
+		FF47B18D1DF51158005A3A2F /* Modal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Modal.h; sourceTree = "<group>"; };
+		FF47B18E1DF51158005A3A2F /* ModalBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalBar.h; sourceTree = "<group>"; };
+		FF47B18F1DF51158005A3A2F /* Modulate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Modulate.h; sourceTree = "<group>"; };
+		FF47B1901DF51158005A3A2F /* Moog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Moog.h; sourceTree = "<group>"; };
+		FF47B1911DF51158005A3A2F /* Noise.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Noise.h; sourceTree = "<group>"; };
+		FF47B1921DF51158005A3A2F /* NRev.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NRev.h; sourceTree = "<group>"; };
+		FF47B1931DF51158005A3A2F /* OnePole.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnePole.h; sourceTree = "<group>"; };
+		FF47B1941DF51158005A3A2F /* OneZero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneZero.h; sourceTree = "<group>"; };
+		FF47B1951DF51158005A3A2F /* PercFlut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PercFlut.h; sourceTree = "<group>"; };
+		FF47B1961DF51158005A3A2F /* Phonemes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Phonemes.h; sourceTree = "<group>"; };
+		FF47B1971DF51158005A3A2F /* PitShift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PitShift.h; sourceTree = "<group>"; };
+		FF47B1981DF51158005A3A2F /* Plucked.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Plucked.h; sourceTree = "<group>"; };
+		FF47B1991DF51158005A3A2F /* PoleZero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PoleZero.h; sourceTree = "<group>"; };
+		FF47B19A1DF51158005A3A2F /* PRCRev.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PRCRev.h; sourceTree = "<group>"; };
+		FF47B19B1DF51158005A3A2F /* ReedTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReedTable.h; sourceTree = "<group>"; };
+		FF47B19C1DF51158005A3A2F /* Resonate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Resonate.h; sourceTree = "<group>"; };
+		FF47B19D1DF51158005A3A2F /* Rhodey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rhodey.h; sourceTree = "<group>"; };
+		FF47B19E1DF51158005A3A2F /* Sampler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sampler.h; sourceTree = "<group>"; };
+		FF47B19F1DF51158005A3A2F /* Saxofony.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Saxofony.h; sourceTree = "<group>"; };
+		FF47B1A01DF51158005A3A2F /* Shakers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shakers.h; sourceTree = "<group>"; };
+		FF47B1A11DF51158005A3A2F /* Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Simple.h; sourceTree = "<group>"; };
+		FF47B1A21DF51158005A3A2F /* SineWave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SineWave.h; sourceTree = "<group>"; };
+		FF47B1A31DF51158005A3A2F /* SingWave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingWave.h; sourceTree = "<group>"; };
+		FF47B1A41DF51158005A3A2F /* Sitar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sitar.h; sourceTree = "<group>"; };
+		FF47B1A51DF51158005A3A2F /* Skini.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skini.h; sourceTree = "<group>"; };
+		FF47B1A61DF51158005A3A2F /* SKINImsg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKINImsg.h; sourceTree = "<group>"; };
+		FF47B1A71DF51158005A3A2F /* SKINItbl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKINItbl.h; sourceTree = "<group>"; };
+		FF47B1A81DF51158005A3A2F /* Sphere.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sphere.h; sourceTree = "<group>"; };
+		FF47B1A91DF51158005A3A2F /* StifKarp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StifKarp.h; sourceTree = "<group>"; };
+		FF47B1AA1DF51158005A3A2F /* Stk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stk.h; sourceTree = "<group>"; };
+		FF47B1AB1DF51158005A3A2F /* TapDelay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TapDelay.h; sourceTree = "<group>"; };
+		FF47B1AC1DF51158005A3A2F /* TubeBell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TubeBell.h; sourceTree = "<group>"; };
+		FF47B1AD1DF51158005A3A2F /* Twang.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Twang.h; sourceTree = "<group>"; };
+		FF47B1AE1DF51158005A3A2F /* TwoPole.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoPole.h; sourceTree = "<group>"; };
+		FF47B1AF1DF51158005A3A2F /* TwoZero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoZero.h; sourceTree = "<group>"; };
+		FF47B1B01DF51158005A3A2F /* Vector3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vector3D.h; sourceTree = "<group>"; };
+		FF47B1B11DF51158005A3A2F /* Voicer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Voicer.h; sourceTree = "<group>"; };
+		FF47B1B21DF51158005A3A2F /* VoicForm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VoicForm.h; sourceTree = "<group>"; };
+		FF47B1B31DF51158005A3A2F /* Whistle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Whistle.h; sourceTree = "<group>"; };
+		FF47B1B41DF51158005A3A2F /* Wurley.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Wurley.h; sourceTree = "<group>"; };
+		FF47B1B51DF51158005A3A2F /* WvIn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WvIn.h; sourceTree = "<group>"; };
+		FF47B1B61DF51158005A3A2F /* WvOut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WvOut.h; sourceTree = "<group>"; };
+		FF47B1B81DF51158005A3A2F /* ADSR.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ADSR.cpp; sourceTree = "<group>"; };
+		FF47B1B91DF51158005A3A2F /* Asymp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Asymp.cpp; sourceTree = "<group>"; };
+		FF47B1BA1DF51158005A3A2F /* BandedWG.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BandedWG.cpp; sourceTree = "<group>"; };
+		FF47B1BB1DF51158005A3A2F /* BeeThree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BeeThree.cpp; sourceTree = "<group>"; };
+		FF47B1BC1DF51158005A3A2F /* BiQuad.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BiQuad.cpp; sourceTree = "<group>"; };
+		FF47B1BD1DF51158005A3A2F /* Blit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Blit.cpp; sourceTree = "<group>"; };
+		FF47B1BE1DF51158005A3A2F /* BlitSaw.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BlitSaw.cpp; sourceTree = "<group>"; };
+		FF47B1BF1DF51158005A3A2F /* BlitSquare.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BlitSquare.cpp; sourceTree = "<group>"; };
+		FF47B1C01DF51158005A3A2F /* BlowBotl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BlowBotl.cpp; sourceTree = "<group>"; };
+		FF47B1C11DF51158005A3A2F /* BlowHole.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BlowHole.cpp; sourceTree = "<group>"; };
+		FF47B1C21DF51158005A3A2F /* Bowed.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Bowed.cpp; sourceTree = "<group>"; };
+		FF47B1C31DF51158005A3A2F /* Brass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Brass.cpp; sourceTree = "<group>"; };
+		FF47B1C41DF51158005A3A2F /* Chorus.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Chorus.cpp; sourceTree = "<group>"; };
+		FF47B1C51DF51158005A3A2F /* Clarinet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Clarinet.cpp; sourceTree = "<group>"; };
+		FF47B1C61DF51158005A3A2F /* Delay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Delay.cpp; sourceTree = "<group>"; };
+		FF47B1C71DF51158005A3A2F /* DelayA.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DelayA.cpp; sourceTree = "<group>"; };
+		FF47B1C81DF51158005A3A2F /* DelayL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DelayL.cpp; sourceTree = "<group>"; };
+		FF47B1C91DF51158005A3A2F /* Drummer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Drummer.cpp; sourceTree = "<group>"; };
+		FF47B1CA1DF51158005A3A2F /* Echo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Echo.cpp; sourceTree = "<group>"; };
+		FF47B1CB1DF51158005A3A2F /* Envelope.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Envelope.cpp; sourceTree = "<group>"; };
+		FF47B1CC1DF51158005A3A2F /* FileLoop.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileLoop.cpp; sourceTree = "<group>"; };
+		FF47B1CD1DF51158005A3A2F /* FileRead.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileRead.cpp; sourceTree = "<group>"; };
+		FF47B1CE1DF51158005A3A2F /* FileWrite.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileWrite.cpp; sourceTree = "<group>"; };
+		FF47B1CF1DF51158005A3A2F /* FileWvIn.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileWvIn.cpp; sourceTree = "<group>"; };
+		FF47B1D01DF51158005A3A2F /* FileWvOut.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileWvOut.cpp; sourceTree = "<group>"; };
+		FF47B1D11DF51158005A3A2F /* Fir.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Fir.cpp; sourceTree = "<group>"; };
+		FF47B1D21DF51158005A3A2F /* Flute.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Flute.cpp; sourceTree = "<group>"; };
+		FF47B1D31DF51158005A3A2F /* FM.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FM.cpp; sourceTree = "<group>"; };
+		FF47B1D41DF51158005A3A2F /* FMVoices.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FMVoices.cpp; sourceTree = "<group>"; };
+		FF47B1D51DF51158005A3A2F /* FormSwep.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FormSwep.cpp; sourceTree = "<group>"; };
+		FF47B1D61DF51158005A3A2F /* FreeVerb.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FreeVerb.cpp; sourceTree = "<group>"; };
+		FF47B1D71DF51158005A3A2F /* Granulate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Granulate.cpp; sourceTree = "<group>"; };
+		FF47B1D81DF51158005A3A2F /* Guitar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Guitar.cpp; sourceTree = "<group>"; };
+		FF47B1D91DF51158005A3A2F /* HevyMetl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HevyMetl.cpp; sourceTree = "<group>"; };
+		FF47B1DA1DF51158005A3A2F /* Iir.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Iir.cpp; sourceTree = "<group>"; };
+		FF47B1DB1DF51158005A3A2F /* JCRev.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JCRev.cpp; sourceTree = "<group>"; };
+		FF47B1DC1DF51158005A3A2F /* LentPitShift.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LentPitShift.cpp; sourceTree = "<group>"; };
+		FF47B1DD1DF51158005A3A2F /* Mandolin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Mandolin.cpp; sourceTree = "<group>"; };
+		FF47B1DE1DF51158005A3A2F /* Mesh2D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Mesh2D.cpp; sourceTree = "<group>"; };
+		FF47B1DF1DF51158005A3A2F /* Messager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Messager.cpp; sourceTree = "<group>"; };
+		FF47B1E01DF51158005A3A2F /* MidiFileIn.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MidiFileIn.cpp; sourceTree = "<group>"; };
+		FF47B1E11DF51158005A3A2F /* Modal.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Modal.cpp; sourceTree = "<group>"; };
+		FF47B1E21DF51158005A3A2F /* ModalBar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ModalBar.cpp; sourceTree = "<group>"; };
+		FF47B1E31DF51158005A3A2F /* Modulate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Modulate.cpp; sourceTree = "<group>"; };
+		FF47B1E41DF51158005A3A2F /* Moog.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Moog.cpp; sourceTree = "<group>"; };
+		FF47B1E51DF51158005A3A2F /* Noise.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Noise.cpp; sourceTree = "<group>"; };
+		FF47B1E61DF51158005A3A2F /* NRev.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NRev.cpp; sourceTree = "<group>"; };
+		FF47B1E71DF51158005A3A2F /* OnePole.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = OnePole.cpp; sourceTree = "<group>"; };
+		FF47B1E81DF51158005A3A2F /* OneZero.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = OneZero.cpp; sourceTree = "<group>"; };
+		FF47B1E91DF51158005A3A2F /* PercFlut.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PercFlut.cpp; sourceTree = "<group>"; };
+		FF47B1EA1DF51158005A3A2F /* Phonemes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Phonemes.cpp; sourceTree = "<group>"; };
+		FF47B1EB1DF51158005A3A2F /* PitShift.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PitShift.cpp; sourceTree = "<group>"; };
+		FF47B1EC1DF51158005A3A2F /* Plucked.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Plucked.cpp; sourceTree = "<group>"; };
+		FF47B1ED1DF51158005A3A2F /* PoleZero.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PoleZero.cpp; sourceTree = "<group>"; };
+		FF47B1EE1DF51158005A3A2F /* PRCRev.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PRCRev.cpp; sourceTree = "<group>"; };
+		FF47B1EF1DF51158005A3A2F /* Resonate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Resonate.cpp; sourceTree = "<group>"; };
+		FF47B1F01DF51158005A3A2F /* Rhodey.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Rhodey.cpp; sourceTree = "<group>"; };
+		FF47B1F11DF51158005A3A2F /* Sampler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Sampler.cpp; sourceTree = "<group>"; };
+		FF47B1F21DF51158005A3A2F /* Saxofony.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Saxofony.cpp; sourceTree = "<group>"; };
+		FF47B1F31DF51158005A3A2F /* Shakers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Shakers.cpp; sourceTree = "<group>"; };
+		FF47B1F41DF51158005A3A2F /* Simple.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Simple.cpp; sourceTree = "<group>"; };
+		FF47B1F51DF51158005A3A2F /* SineWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SineWave.cpp; sourceTree = "<group>"; };
+		FF47B1F61DF51158005A3A2F /* SingWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SingWave.cpp; sourceTree = "<group>"; };
+		FF47B1F71DF51158005A3A2F /* Sitar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Sitar.cpp; sourceTree = "<group>"; };
+		FF47B1F81DF51158005A3A2F /* Skini.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Skini.cpp; sourceTree = "<group>"; };
+		FF47B1F91DF51158005A3A2F /* Sphere.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Sphere.cpp; sourceTree = "<group>"; };
+		FF47B1FA1DF51158005A3A2F /* StifKarp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StifKarp.cpp; sourceTree = "<group>"; };
+		FF47B1FB1DF51158005A3A2F /* Stk.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Stk.cpp; sourceTree = "<group>"; };
+		FF47B1FC1DF51158005A3A2F /* TapDelay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TapDelay.cpp; sourceTree = "<group>"; };
+		FF47B1FD1DF51158005A3A2F /* TubeBell.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TubeBell.cpp; sourceTree = "<group>"; };
+		FF47B1FE1DF51158005A3A2F /* Twang.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Twang.cpp; sourceTree = "<group>"; };
+		FF47B1FF1DF51158005A3A2F /* TwoPole.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TwoPole.cpp; sourceTree = "<group>"; };
+		FF47B2001DF51158005A3A2F /* TwoZero.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TwoZero.cpp; sourceTree = "<group>"; };
+		FF47B2011DF51158005A3A2F /* Voicer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Voicer.cpp; sourceTree = "<group>"; };
+		FF47B2021DF51158005A3A2F /* VoicForm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VoicForm.cpp; sourceTree = "<group>"; };
+		FF47B2031DF51158005A3A2F /* Whistle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Whistle.cpp; sourceTree = "<group>"; };
+		FF47B2041DF51158005A3A2F /* Wurley.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Wurley.cpp; sourceTree = "<group>"; };
+		FF47B2061DF51158005A3A2F /* ofxStk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxStk.h; sourceTree = "<group>"; };
+		FF47B25E1DF5660B005A3A2F /* ofxSimpleTimer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxSimpleTimer.cpp; sourceTree = "<group>"; };
+		FF47B25F1DF5660B005A3A2F /* ofxSimpleTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSimpleTimer.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +403,8 @@
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				FF47B2611DF5660F005A3A2F /* ofxSimpleTimer */,
+				FF47B2591DF56376005A3A2F /* ofxStk */,
 				FF47AF021DEBE14C005A3A2F /* ofxFluid */,
 				FF47AEFD1DEBE10F005A3A2F /* ofxFX */,
 				1E69E56363BB709D30E47967 /* ofxLeapMotion2 */,
@@ -303,6 +554,242 @@
 			name = ofxFluid;
 			sourceTree = "<group>";
 		};
+		FF47B1591DF51158005A3A2F /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B15A1DF51158005A3A2F /* STK */,
+			);
+			name = libs;
+			path = ../../../addons/ofxStk/libs;
+			sourceTree = "<group>";
+		};
+		FF47B15A1DF51158005A3A2F /* STK */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B15B1DF51158005A3A2F /* include */,
+				FF47B1B71DF51158005A3A2F /* src */,
+			);
+			path = STK;
+			sourceTree = "<group>";
+		};
+		FF47B15B1DF51158005A3A2F /* include */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B15C1DF51158005A3A2F /* ADSR.h */,
+				FF47B15D1DF51158005A3A2F /* Asymp.h */,
+				FF47B15E1DF51158005A3A2F /* BandedWG.h */,
+				FF47B15F1DF51158005A3A2F /* BeeThree.h */,
+				FF47B1601DF51158005A3A2F /* BiQuad.h */,
+				FF47B1611DF51158005A3A2F /* Blit.h */,
+				FF47B1621DF51158005A3A2F /* BlitSaw.h */,
+				FF47B1631DF51158005A3A2F /* BlitSquare.h */,
+				FF47B1641DF51158005A3A2F /* BlowBotl.h */,
+				FF47B1651DF51158005A3A2F /* BlowHole.h */,
+				FF47B1661DF51158005A3A2F /* Bowed.h */,
+				FF47B1671DF51158005A3A2F /* BowTable.h */,
+				FF47B1681DF51158005A3A2F /* Brass.h */,
+				FF47B1691DF51158005A3A2F /* Chorus.h */,
+				FF47B16A1DF51158005A3A2F /* Clarinet.h */,
+				FF47B16B1DF51158005A3A2F /* Cubic.h */,
+				FF47B16C1DF51158005A3A2F /* Delay.h */,
+				FF47B16D1DF51158005A3A2F /* DelayA.h */,
+				FF47B16E1DF51158005A3A2F /* DelayL.h */,
+				FF47B16F1DF51158005A3A2F /* Drummer.h */,
+				FF47B1701DF51158005A3A2F /* Echo.h */,
+				FF47B1711DF51158005A3A2F /* Effect.h */,
+				FF47B1721DF51158005A3A2F /* Envelope.h */,
+				FF47B1731DF51158005A3A2F /* FileLoop.h */,
+				FF47B1741DF51158005A3A2F /* FileRead.h */,
+				FF47B1751DF51158005A3A2F /* FileWrite.h */,
+				FF47B1761DF51158005A3A2F /* FileWvIn.h */,
+				FF47B1771DF51158005A3A2F /* FileWvOut.h */,
+				FF47B1781DF51158005A3A2F /* Filter.h */,
+				FF47B1791DF51158005A3A2F /* Fir.h */,
+				FF47B17A1DF51158005A3A2F /* Flute.h */,
+				FF47B17B1DF51158005A3A2F /* FM.h */,
+				FF47B17C1DF51158005A3A2F /* FMVoices.h */,
+				FF47B17D1DF51158005A3A2F /* FormSwep.h */,
+				FF47B17E1DF51158005A3A2F /* FreeVerb.h */,
+				FF47B17F1DF51158005A3A2F /* Function.h */,
+				FF47B1801DF51158005A3A2F /* Generator.h */,
+				FF47B1811DF51158005A3A2F /* Granulate.h */,
+				FF47B1821DF51158005A3A2F /* Guitar.h */,
+				FF47B1831DF51158005A3A2F /* HevyMetl.h */,
+				FF47B1841DF51158005A3A2F /* Iir.h */,
+				FF47B1851DF51158005A3A2F /* Instrmnt.h */,
+				FF47B1861DF51158005A3A2F /* JCRev.h */,
+				FF47B1871DF51158005A3A2F /* JetTable.h */,
+				FF47B1881DF51158005A3A2F /* LentPitShift.h */,
+				FF47B1891DF51158005A3A2F /* Mandolin.h */,
+				FF47B18A1DF51158005A3A2F /* Mesh2D.h */,
+				FF47B18B1DF51158005A3A2F /* Messager.h */,
+				FF47B18C1DF51158005A3A2F /* MidiFileIn.h */,
+				FF47B18D1DF51158005A3A2F /* Modal.h */,
+				FF47B18E1DF51158005A3A2F /* ModalBar.h */,
+				FF47B18F1DF51158005A3A2F /* Modulate.h */,
+				FF47B1901DF51158005A3A2F /* Moog.h */,
+				FF47B1911DF51158005A3A2F /* Noise.h */,
+				FF47B1921DF51158005A3A2F /* NRev.h */,
+				FF47B1931DF51158005A3A2F /* OnePole.h */,
+				FF47B1941DF51158005A3A2F /* OneZero.h */,
+				FF47B1951DF51158005A3A2F /* PercFlut.h */,
+				FF47B1961DF51158005A3A2F /* Phonemes.h */,
+				FF47B1971DF51158005A3A2F /* PitShift.h */,
+				FF47B1981DF51158005A3A2F /* Plucked.h */,
+				FF47B1991DF51158005A3A2F /* PoleZero.h */,
+				FF47B19A1DF51158005A3A2F /* PRCRev.h */,
+				FF47B19B1DF51158005A3A2F /* ReedTable.h */,
+				FF47B19C1DF51158005A3A2F /* Resonate.h */,
+				FF47B19D1DF51158005A3A2F /* Rhodey.h */,
+				FF47B19E1DF51158005A3A2F /* Sampler.h */,
+				FF47B19F1DF51158005A3A2F /* Saxofony.h */,
+				FF47B1A01DF51158005A3A2F /* Shakers.h */,
+				FF47B1A11DF51158005A3A2F /* Simple.h */,
+				FF47B1A21DF51158005A3A2F /* SineWave.h */,
+				FF47B1A31DF51158005A3A2F /* SingWave.h */,
+				FF47B1A41DF51158005A3A2F /* Sitar.h */,
+				FF47B1A51DF51158005A3A2F /* Skini.h */,
+				FF47B1A61DF51158005A3A2F /* SKINImsg.h */,
+				FF47B1A71DF51158005A3A2F /* SKINItbl.h */,
+				FF47B1A81DF51158005A3A2F /* Sphere.h */,
+				FF47B1A91DF51158005A3A2F /* StifKarp.h */,
+				FF47B1AA1DF51158005A3A2F /* Stk.h */,
+				FF47B1AB1DF51158005A3A2F /* TapDelay.h */,
+				FF47B1AC1DF51158005A3A2F /* TubeBell.h */,
+				FF47B1AD1DF51158005A3A2F /* Twang.h */,
+				FF47B1AE1DF51158005A3A2F /* TwoPole.h */,
+				FF47B1AF1DF51158005A3A2F /* TwoZero.h */,
+				FF47B1B01DF51158005A3A2F /* Vector3D.h */,
+				FF47B1B11DF51158005A3A2F /* Voicer.h */,
+				FF47B1B21DF51158005A3A2F /* VoicForm.h */,
+				FF47B1B31DF51158005A3A2F /* Whistle.h */,
+				FF47B1B41DF51158005A3A2F /* Wurley.h */,
+				FF47B1B51DF51158005A3A2F /* WvIn.h */,
+				FF47B1B61DF51158005A3A2F /* WvOut.h */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		FF47B1B71DF51158005A3A2F /* src */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B1B81DF51158005A3A2F /* ADSR.cpp */,
+				FF47B1B91DF51158005A3A2F /* Asymp.cpp */,
+				FF47B1BA1DF51158005A3A2F /* BandedWG.cpp */,
+				FF47B1BB1DF51158005A3A2F /* BeeThree.cpp */,
+				FF47B1BC1DF51158005A3A2F /* BiQuad.cpp */,
+				FF47B1BD1DF51158005A3A2F /* Blit.cpp */,
+				FF47B1BE1DF51158005A3A2F /* BlitSaw.cpp */,
+				FF47B1BF1DF51158005A3A2F /* BlitSquare.cpp */,
+				FF47B1C01DF51158005A3A2F /* BlowBotl.cpp */,
+				FF47B1C11DF51158005A3A2F /* BlowHole.cpp */,
+				FF47B1C21DF51158005A3A2F /* Bowed.cpp */,
+				FF47B1C31DF51158005A3A2F /* Brass.cpp */,
+				FF47B1C41DF51158005A3A2F /* Chorus.cpp */,
+				FF47B1C51DF51158005A3A2F /* Clarinet.cpp */,
+				FF47B1C61DF51158005A3A2F /* Delay.cpp */,
+				FF47B1C71DF51158005A3A2F /* DelayA.cpp */,
+				FF47B1C81DF51158005A3A2F /* DelayL.cpp */,
+				FF47B1C91DF51158005A3A2F /* Drummer.cpp */,
+				FF47B1CA1DF51158005A3A2F /* Echo.cpp */,
+				FF47B1CB1DF51158005A3A2F /* Envelope.cpp */,
+				FF47B1CC1DF51158005A3A2F /* FileLoop.cpp */,
+				FF47B1CD1DF51158005A3A2F /* FileRead.cpp */,
+				FF47B1CE1DF51158005A3A2F /* FileWrite.cpp */,
+				FF47B1CF1DF51158005A3A2F /* FileWvIn.cpp */,
+				FF47B1D01DF51158005A3A2F /* FileWvOut.cpp */,
+				FF47B1D11DF51158005A3A2F /* Fir.cpp */,
+				FF47B1D21DF51158005A3A2F /* Flute.cpp */,
+				FF47B1D31DF51158005A3A2F /* FM.cpp */,
+				FF47B1D41DF51158005A3A2F /* FMVoices.cpp */,
+				FF47B1D51DF51158005A3A2F /* FormSwep.cpp */,
+				FF47B1D61DF51158005A3A2F /* FreeVerb.cpp */,
+				FF47B1D71DF51158005A3A2F /* Granulate.cpp */,
+				FF47B1D81DF51158005A3A2F /* Guitar.cpp */,
+				FF47B1D91DF51158005A3A2F /* HevyMetl.cpp */,
+				FF47B1DA1DF51158005A3A2F /* Iir.cpp */,
+				FF47B1DB1DF51158005A3A2F /* JCRev.cpp */,
+				FF47B1DC1DF51158005A3A2F /* LentPitShift.cpp */,
+				FF47B1DD1DF51158005A3A2F /* Mandolin.cpp */,
+				FF47B1DE1DF51158005A3A2F /* Mesh2D.cpp */,
+				FF47B1DF1DF51158005A3A2F /* Messager.cpp */,
+				FF47B1E01DF51158005A3A2F /* MidiFileIn.cpp */,
+				FF47B1E11DF51158005A3A2F /* Modal.cpp */,
+				FF47B1E21DF51158005A3A2F /* ModalBar.cpp */,
+				FF47B1E31DF51158005A3A2F /* Modulate.cpp */,
+				FF47B1E41DF51158005A3A2F /* Moog.cpp */,
+				FF47B1E51DF51158005A3A2F /* Noise.cpp */,
+				FF47B1E61DF51158005A3A2F /* NRev.cpp */,
+				FF47B1E71DF51158005A3A2F /* OnePole.cpp */,
+				FF47B1E81DF51158005A3A2F /* OneZero.cpp */,
+				FF47B1E91DF51158005A3A2F /* PercFlut.cpp */,
+				FF47B1EA1DF51158005A3A2F /* Phonemes.cpp */,
+				FF47B1EB1DF51158005A3A2F /* PitShift.cpp */,
+				FF47B1EC1DF51158005A3A2F /* Plucked.cpp */,
+				FF47B1ED1DF51158005A3A2F /* PoleZero.cpp */,
+				FF47B1EE1DF51158005A3A2F /* PRCRev.cpp */,
+				FF47B1EF1DF51158005A3A2F /* Resonate.cpp */,
+				FF47B1F01DF51158005A3A2F /* Rhodey.cpp */,
+				FF47B1F11DF51158005A3A2F /* Sampler.cpp */,
+				FF47B1F21DF51158005A3A2F /* Saxofony.cpp */,
+				FF47B1F31DF51158005A3A2F /* Shakers.cpp */,
+				FF47B1F41DF51158005A3A2F /* Simple.cpp */,
+				FF47B1F51DF51158005A3A2F /* SineWave.cpp */,
+				FF47B1F61DF51158005A3A2F /* SingWave.cpp */,
+				FF47B1F71DF51158005A3A2F /* Sitar.cpp */,
+				FF47B1F81DF51158005A3A2F /* Skini.cpp */,
+				FF47B1F91DF51158005A3A2F /* Sphere.cpp */,
+				FF47B1FA1DF51158005A3A2F /* StifKarp.cpp */,
+				FF47B1FB1DF51158005A3A2F /* Stk.cpp */,
+				FF47B1FC1DF51158005A3A2F /* TapDelay.cpp */,
+				FF47B1FD1DF51158005A3A2F /* TubeBell.cpp */,
+				FF47B1FE1DF51158005A3A2F /* Twang.cpp */,
+				FF47B1FF1DF51158005A3A2F /* TwoPole.cpp */,
+				FF47B2001DF51158005A3A2F /* TwoZero.cpp */,
+				FF47B2011DF51158005A3A2F /* Voicer.cpp */,
+				FF47B2021DF51158005A3A2F /* VoicForm.cpp */,
+				FF47B2031DF51158005A3A2F /* Whistle.cpp */,
+				FF47B2041DF51158005A3A2F /* Wurley.cpp */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		FF47B2051DF51158005A3A2F /* src */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B2061DF51158005A3A2F /* ofxStk.h */,
+			);
+			name = src;
+			path = ../../../addons/ofxStk/src;
+			sourceTree = "<group>";
+		};
+		FF47B2591DF56376005A3A2F /* ofxStk */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B1591DF51158005A3A2F /* libs */,
+				FF47B2051DF51158005A3A2F /* src */,
+			);
+			name = ofxStk;
+			sourceTree = "<group>";
+		};
+		FF47B25D1DF5660B005A3A2F /* src */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B25E1DF5660B005A3A2F /* ofxSimpleTimer.cpp */,
+				FF47B25F1DF5660B005A3A2F /* ofxSimpleTimer.h */,
+			);
+			name = src;
+			path = ../../../addons/ofxSimpleTimer/src;
+			sourceTree = "<group>";
+		};
+		FF47B2611DF5660F005A3A2F /* ofxSimpleTimer */ = {
+			isa = PBXGroup;
+			children = (
+				FF47B25D1DF5660B005A3A2F /* src */,
+			);
+			name = ofxSimpleTimer;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -390,11 +877,89 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF47B2191DF51158005A3A2F /* Echo.cpp in Sources */,
+				FF47B2271DF51158005A3A2F /* Guitar.cpp in Sources */,
+				FF47B21B1DF51158005A3A2F /* FileLoop.cpp in Sources */,
+				FF47B2301DF51158005A3A2F /* Modal.cpp in Sources */,
+				FF47B2471DF51158005A3A2F /* Skini.cpp in Sources */,
+				FF47B2391DF51158005A3A2F /* Phonemes.cpp in Sources */,
+				FF47B2241DF51158005A3A2F /* FormSwep.cpp in Sources */,
+				FF47B2291DF51158005A3A2F /* Iir.cpp in Sources */,
+				FF47B20E1DF51158005A3A2F /* BlitSquare.cpp in Sources */,
+				FF47B2531DF51158005A3A2F /* Wurley.cpp in Sources */,
+				FF47B2231DF51158005A3A2F /* FMVoices.cpp in Sources */,
+				FF47B2101DF51158005A3A2F /* BlowHole.cpp in Sources */,
+				FF47B24D1DF51158005A3A2F /* Twang.cpp in Sources */,
+				FF47B2331DF51158005A3A2F /* Moog.cpp in Sources */,
+				FF47B20A1DF51158005A3A2F /* BeeThree.cpp in Sources */,
+				FF47B2521DF51158005A3A2F /* Whistle.cpp in Sources */,
+				FF47B23B1DF51158005A3A2F /* Plucked.cpp in Sources */,
+				FF47B21D1DF51158005A3A2F /* FileWrite.cpp in Sources */,
+				FF47B24C1DF51158005A3A2F /* TubeBell.cpp in Sources */,
+				FF47B2261DF51158005A3A2F /* Granulate.cpp in Sources */,
+				FF47B2381DF51158005A3A2F /* PercFlut.cpp in Sources */,
+				FF47B2131DF51158005A3A2F /* Chorus.cpp in Sources */,
+				FF47B24F1DF51158005A3A2F /* TwoZero.cpp in Sources */,
+				FF47B2601DF5660B005A3A2F /* ofxSimpleTimer.cpp in Sources */,
+				FF47B2201DF51158005A3A2F /* Fir.cpp in Sources */,
+				FF47B23E1DF51158005A3A2F /* Resonate.cpp in Sources */,
+				FF47B2081DF51158005A3A2F /* Asymp.cpp in Sources */,
+				FF47B2461DF51158005A3A2F /* Sitar.cpp in Sources */,
+				FF47B2411DF51158005A3A2F /* Saxofony.cpp in Sources */,
+				FF47B2451DF51158005A3A2F /* SingWave.cpp in Sources */,
+				FF47B22C1DF51158005A3A2F /* Mandolin.cpp in Sources */,
+				FF47B22F1DF51158005A3A2F /* MidiFileIn.cpp in Sources */,
+				FF47B2221DF51158005A3A2F /* FM.cpp in Sources */,
+				FF47B2401DF51158005A3A2F /* Sampler.cpp in Sources */,
+				FF47B2151DF51158005A3A2F /* Delay.cpp in Sources */,
+				FF47B2091DF51158005A3A2F /* BandedWG.cpp in Sources */,
+				FF47B20F1DF51158005A3A2F /* BlowBotl.cpp in Sources */,
+				FF47B2511DF51158005A3A2F /* VoicForm.cpp in Sources */,
+				FF47B2171DF51158005A3A2F /* DelayL.cpp in Sources */,
+				FF47B2281DF51158005A3A2F /* HevyMetl.cpp in Sources */,
+				FF47B21E1DF51158005A3A2F /* FileWvIn.cpp in Sources */,
+				FF47B22A1DF51158005A3A2F /* JCRev.cpp in Sources */,
+				FF47B20B1DF51158005A3A2F /* BiQuad.cpp in Sources */,
+				FF47B24E1DF51158005A3A2F /* TwoPole.cpp in Sources */,
+				FF47B2181DF51158005A3A2F /* Drummer.cpp in Sources */,
+				FF47B2481DF51158005A3A2F /* Sphere.cpp in Sources */,
+				FF47B2441DF51158005A3A2F /* SineWave.cpp in Sources */,
+				FF47B20C1DF51158005A3A2F /* Blit.cpp in Sources */,
+				FF47B2141DF51158005A3A2F /* Clarinet.cpp in Sources */,
+				FF47B2491DF51158005A3A2F /* StifKarp.cpp in Sources */,
 				FF47AF011DEBE143005A3A2F /* ofxFluid.cpp in Sources */,
+				FF47B20D1DF51158005A3A2F /* BlitSaw.cpp in Sources */,
+				FF47B21F1DF51158005A3A2F /* FileWvOut.cpp in Sources */,
+				FF47B22B1DF51158005A3A2F /* LentPitShift.cpp in Sources */,
+				FF47B2121DF51158005A3A2F /* Brass.cpp in Sources */,
+				FF47B24B1DF51158005A3A2F /* TapDelay.cpp in Sources */,
+				FF47B2161DF51158005A3A2F /* DelayA.cpp in Sources */,
+				FF47B21A1DF51158005A3A2F /* Envelope.cpp in Sources */,
+				FF47B22E1DF51158005A3A2F /* Messager.cpp in Sources */,
+				FF47B23F1DF51158005A3A2F /* Rhodey.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
+				FF47B2111DF51158005A3A2F /* Bowed.cpp in Sources */,
+				FF47B2371DF51158005A3A2F /* OneZero.cpp in Sources */,
+				FF47B2211DF51158005A3A2F /* Flute.cpp in Sources */,
+				FF47B2501DF51158005A3A2F /* Voicer.cpp in Sources */,
+				FF47B2251DF51158005A3A2F /* FreeVerb.cpp in Sources */,
+				FF47B21C1DF51158005A3A2F /* FileRead.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
+				FF47B24A1DF51158005A3A2F /* Stk.cpp in Sources */,
+				FF47B2071DF51158005A3A2F /* ADSR.cpp in Sources */,
 				FF47AEFC1DEBE10B005A3A2F /* ofxFXObject.cpp in Sources */,
+				FF47B23C1DF51158005A3A2F /* PoleZero.cpp in Sources */,
+				FF47B2431DF51158005A3A2F /* Simple.cpp in Sources */,
+				FF47B2341DF51158005A3A2F /* Noise.cpp in Sources */,
+				FF47B22D1DF51158005A3A2F /* Mesh2D.cpp in Sources */,
+				FF47B2421DF51158005A3A2F /* Shakers.cpp in Sources */,
+				FF47B2351DF51158005A3A2F /* NRev.cpp in Sources */,
 				C9DC019415D847EB51DAA13F /* ofxLeapMotion2.cpp in Sources */,
+				FF47B2311DF51158005A3A2F /* ModalBar.cpp in Sources */,
+				FF47B2361DF51158005A3A2F /* OnePole.cpp in Sources */,
+				FF47B23D1DF51158005A3A2F /* PRCRev.cpp in Sources */,
+				FF47B2321DF51158005A3A2F /* Modulate.cpp in Sources */,
+				FF47B23A1DF51158005A3A2F /* PitShift.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
