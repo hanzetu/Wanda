@@ -18,4 +18,4 @@ Try not to overlap hands as leap motion cannot detect blocked hands.
 1. Install Leap Motion V2 Desktop SDK at https://developer.leapmotion.com  
 2. In Xcode, run Wanda.xcodeproj and compile
 3. OS X 10.11.6 tested, but it should work on all Windows/mac OS/Linux platforms
-
+4. The project uses 5 addons: ofxSimpleTimer, ofxStk, ofxFluid, ofxFX, and ofxLeapMotion2. If compiler error says package missing, please install these addons to openFrameworks.
