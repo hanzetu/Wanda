@@ -12,10 +12,10 @@ Try not to overlap hands as leap motion cannot detect blocked hands.
 
 ##Run Instructions:   
 1. Connect Leap Motion to your computer and install drivers needed.
-2. Run WandaDebug.app under Wanda/bin folder.
+2. For Mac, run WandaDebug.app under Wanda/bin folder.
 
 ##Compile Instructions:  
 1. Install Leap Motion V2 Desktop SDK at https://developer.leapmotion.com  
 2. In Xcode, run Wanda.xcodeproj and compile
-3. Mac platform tested, but it should work on all Windows/mac OS/Linux platforms
+3. OS X 10.11.6 tested, but it should work on all Windows/mac OS/Linux platforms
 
